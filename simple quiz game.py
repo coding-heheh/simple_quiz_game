@@ -2,7 +2,7 @@
 questions = [
     {
         "question": "Who is the best person in the whole entire universe??",
-        "choices": ["A) ur mom", "B) albert einstien", "C) Siyona Ghanate", "D) Edgar Allen Poe"],
+        "choices": ["A) ur mom", "B) albert einstien", "C) Siyona", "D) Edgar Allen Poe"],
         "correct_answer": "C"
     },
     {
@@ -11,13 +11,13 @@ questions = [
         "correct_answer": "A"
     },
     {
-        "question": "what is the best book ever?",
-        "choices": ["A) ur mom", "B) powerless", "C) percy jackson", "D) inheritance games"],
-        "correct_answer": "B"
+        "question": "what is the only planet that has life on it?",
+        "choices": ["A) mars", "B) pluto", "C) earth", "D) the moon"],
+        "correct_answer": "C"
     },
     {
-        "question": "Who wrote the best book ever ?",
-        "choices": ["A) lauren roberts", "B) Dickens", "C) ur mom", "D) Shaksphere"],
+        "question": "Who wrote the harry potter series ?",
+        "choices": ["A) jk rowling", "B) Dickens", "C) Rick riodorn", "D) Shaksphere"],
         "correct_answer": "A"
     }
 ]
